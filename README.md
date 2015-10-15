@@ -6,7 +6,7 @@ This is a very basic Handsontable plugin that aims to add filter fields at the t
 
 ### Quick start
 
-1. Download the latest zip from [github](https://github.com/handsontable.filter/handsontable.filter/archive/master.zip):
+1. Download the latest zip from [github](https://github.com/daneilsan/hansontable.filter/archive/master.zip):
 
 
 2. After Handsontable filter is downloaded, include the code into your project. The file you need is inside `src` folder. You can either use the `handsontable.filter.js` or the minified version `handsontable.filter.min.js`:
