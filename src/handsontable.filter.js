@@ -25,7 +25,8 @@ window.HandsontableFilter = function (handsontable_id, filter_function, rowHeade
     if (rowHeader) {
         var span = document.createElement("span");
         span.setAttribute('id', handsontable_id + "_filter_span");
-        span.style = "display: inline-block; width: 20px";
+        span.style.width = "20px";
+        span.style.display = "inline-block";
         div.appendChild(span);
     }
     for (var j=0; j < colNumber; j++) {
